@@ -17,4 +17,4 @@ int main() {
     }
 
     return 0;
-}
+} //VehicleType_u32
